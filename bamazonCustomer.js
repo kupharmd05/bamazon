@@ -40,10 +40,10 @@ function inventory() {
                     choices: function () {
                         var choiceArray = [];
                         for (var i = 0; i < results.length; i++) {
-                            // console.log(typeof results[i].product_id)
+                            
                             choiceArray.push(results[i].product_id.toString());
                         }
-                        // console.log(choiceArray);
+                        
                         return choiceArray;
                     },
                     message: "Which product number would you like to buy?"
