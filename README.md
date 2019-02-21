@@ -19,5 +19,6 @@ If Bamazon has sufficient inventory, the user is provided with a successful mess
 ![Confirmation message](/images/customer3.PNG)
 
 If there is insufficient inventory the customer is notified.
+
 ![Out of stock message](/images/customer4.PNG)
 
