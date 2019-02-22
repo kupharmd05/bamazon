@@ -16,9 +16,27 @@ Once the customer selects their item, they are prompted to enter a quantity they
 ![Second customer screen](./images/customer2.PNG)
 
 If Bamazon has sufficient inventory, the user is provided with a successful message and their order price is displayed.
-![Confirmation message](/images/customer3.PNG)
+![Confirmation message](./images/customer3.PNG)
 
 If there is insufficient inventory the customer is notified.
 
-![Out of stock message](/images/customer4.PNG)
+![Out of stock message](./images/customer4.PNG)
 
+##Introduction to Manager Application
+
+The manager application allows a manager to select one of four options shown below.
+
+![First manager screen](./images/manager1.PNG)
+
+If the manager selects "View Products for Sale", they are returned all of the items in the database for sale.
+
+![View products](./images/manager2.PNG)
+
+If the manager selects "View Low Inventory", they are returned all of the items in the database with less than 5 units on hand.
+![Low Inventory](./images/manager3.PNG)
+
+If the manager selects "Add to Inventory", they are displayed all of the items in the database for selection.  Once a selection is made they are prompted how many they would like to add to inventory.
+![Add Inventory](./images/manager4.PNG)
+
+If the manager selects "Add New Product", they are prompted to enter the product id, product name, department, price, and initial inventory quantity.
+![Add New Product](./images/manager5.PNG)
