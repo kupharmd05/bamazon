@@ -39,4 +39,5 @@ If the manager selects "Add to Inventory", they are displayed all of the items i
 ![Add Inventory](./images/manager4.PNG)
 
 If the manager selects "Add New Product", they are prompted to enter the product id, product name, department, price, and initial inventory quantity.
+
 ![Add New Product](./images/manager5.PNG)
